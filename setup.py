@@ -20,7 +20,7 @@ with open(path.join(this_directory, 'README.md'), encoding='utf-8') as f:
 
 setuptools.setup(
     name="mlflow-server-proxy",
-    version='0.0.1',
+    version='0.1.0',
     url="https://github.com/americanexpress/mlflow-server-proxy",
     author="American Express",
     description="Jupyter server proxy extension for mlflow tracking server",
