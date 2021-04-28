@@ -2,7 +2,7 @@
 
 MLFlow Server Proxy lets you run arbitrary external MLFlow tracking server alongside your notebook server and provide authenticated web access to them using a path `/mlflow` next to others like `/lab`. 
 
-Alongside the python package that provides the main functionality, the JupyterLab extension [@jupyterlab/server-proxy](https://github.com/jupyterhub/jupyter-server-proxy) provides buttons in the JupyterLab launcher window to get to MLFlow tracking server.
+Alongside the python package that provides the main functionality, the JupyterLab extension [@jupyterhub/server-proxy](https://github.com/jupyterhub/jupyter-server-proxy) provides buttons in the JupyterLab launcher window to get to MLFlow tracking server.
 
 This package was built using the [`jupyter-server-proxy` cookiecutter template](https://github.com/jupyterhub/jupyter-server-proxy/tree/master/contrib/template).
 
